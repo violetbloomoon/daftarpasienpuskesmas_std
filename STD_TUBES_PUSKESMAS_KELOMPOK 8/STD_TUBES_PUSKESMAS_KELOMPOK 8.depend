@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672907175 source:c:\users\sofi\onedrive\kuliah\workspace coding\cppworkspace\std_tubes_puskesmas_kelompok 8\main.cpp
+	"puskesmas.h"
+	<iostream>
+
+1672930626 c:\users\sofi\onedrive\kuliah\workspace coding\cppworkspace\std_tubes_puskesmas_kelompok 8\puskesmas.h
+	<iostream>
+
+1672895789 source:c:\users\sofi\onedrive\kuliah\workspace coding\cppworkspace\std_tubes_puskesmas_kelompok 8\puskesmas.cpp
+	"puskesmas.h"
+
